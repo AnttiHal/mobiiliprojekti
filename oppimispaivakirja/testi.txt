@@ -1,0 +1,5 @@
+Moi
+
+Tässä harjoitellaan Gitin käyttöä.
+
+T: Jarkko
