@@ -1,0 +1,8 @@
+Moi
+
+Tässä harjoitellaan Gitin käyttöä.
+
+Kirjoitetaan tämä valmiiksi ja sitten lähetetään Gitiin.
+
+
+T: Jarkko

@@ -1,0 +1,13 @@
+Gitin komennot:
+
+1. git status
+
+2. git clone git@github.com:raivo-software/mobiiliprojekti.git
+
+3. git checkout -b jarkko-nieminen
+
+4. git add
+
+5. git commit - "Jokin kommentti tähän"
+
+5. git push origin jarkko-nieminen
