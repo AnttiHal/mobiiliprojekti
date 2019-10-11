@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Projekti</string>
+    <string name="kartta">Karttaan</string>
+    <string name="suunnittelu">\nSuunnittelu\n</string>
+    <string name="ohjelmointi">\nOhjelmointi\n</string>
+    <string name="alkuun">Alkuun</string>
+    <string name="tutustu">\nTutustu toimintaamme\n</string>
+    <string name="merituuli">\n\nMerituuli Ohjelmointi \non ohjelmoinnin \nharjoitustöissä käytetty \nkuvitteellinen yritys.\n</string>
+    <string name="title_activity_sijainti"> Osoite</string>
+    <string name="nimi">Nimi</string>
+    <string name="logo">Merituuli Ohjelmointi logo</string>
+</resources>
